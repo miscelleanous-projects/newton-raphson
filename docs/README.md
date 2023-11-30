@@ -127,13 +127,6 @@ Usage:
 ```bash
 git clone https://github.com/miscelleanous-projects/newton-raphson.git
 ```
-for the d version:
-
-```bash
-cd d
-dub build && dub run
-```
-for the rust version:
 ```bash
 cd rust
 cargo build && cargo run
