@@ -1,3 +1,4 @@
+## D Version
 ```d
 import std.math;
 import std.stdio;
@@ -53,7 +54,7 @@ void main() {
 }
 ```
 
-``
+## Output
 
 ```
 Converged in 10 iterations
