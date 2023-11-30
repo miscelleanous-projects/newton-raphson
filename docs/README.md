@@ -112,7 +112,7 @@ fn main() {
 }
 ```
 
-## Usage:
+### Usage:
 
 ```bash
 git clone https://github.com/miscelleanous-projects/newton-raphson.git
