@@ -58,6 +58,16 @@ void main() {
 }
 ```
 
+Usage:
+
+```bash
+git clone https://github.com/miscelleanous-projects/newton-raphson.git
+```
+```bash
+cd d
+dub build && dub run
+```
+
 ## Rust version:
 
 ```rust
@@ -112,7 +122,7 @@ fn main() {
 }
 ```
 
-### Usage:
+Usage:
 
 ```bash
 git clone https://github.com/miscelleanous-projects/newton-raphson.git
