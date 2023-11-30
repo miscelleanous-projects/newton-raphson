@@ -1,4 +1,4 @@
-## D version
+## D version:
 ```d
 import std.math;
 import std.stdio;
@@ -54,7 +54,7 @@ void main() {
 }
 ```
 
-## Rust version
+## Rust version:
 
 ```rust
 use std::f64;
@@ -108,13 +108,13 @@ fn main() {
 }
 ```
 
-## Usage
+## Usage:
 
 ```bash
 git clone https://github.com/miscelleanous-projects/newton-raphson.git
 ```
 
-## Output
+## Output:
 
 ```
 Converged in 10 iterations
