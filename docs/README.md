@@ -134,6 +134,8 @@ cargo build && cargo run
 
 ## Output:
 
+Session sample
+
 ```
 Converged in 10 iterations
 Square root of 11025 is approximately 105
