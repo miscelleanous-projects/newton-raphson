@@ -110,6 +110,9 @@ fn main() {
 
 ## Usage
 
+```bash
+git clone
+```
 
 ## Output
 
