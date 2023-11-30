@@ -111,7 +111,7 @@ fn main() {
 ## Usage
 
 ```bash
-git clone
+git clone https://github.com/miscelleanous-projects/newton-raphson.git
 ```
 
 ## Output
