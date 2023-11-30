@@ -53,6 +53,9 @@ void main() {
 	writeln;
 }
 ```
+
+## Rust Version
+
 ```rust
 use std::f64;
 
