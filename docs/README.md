@@ -1,4 +1,4 @@
-## D Version
+## D version
 ```d
 import std.math;
 import std.stdio;
@@ -54,7 +54,7 @@ void main() {
 }
 ```
 
-## Rust Version
+## Rust version
 
 ```rust
 use std::f64;
@@ -107,6 +107,10 @@ fn main() {
     }
 }
 ```
+
+## Usage
+
+
 ## Output
 
 ```
